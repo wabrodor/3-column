@@ -118,7 +118,7 @@ height: auto;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: 1fr;
         max-width:70%;
-        min-height:85vh;
+        min-height:65vh;
     }
 
     .card_1{
